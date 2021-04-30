@@ -1,0 +1,10 @@
+D:\VB\Pc Kapatma\bin\Debug\Pc Kapatma.exe.config
+D:\VB\Pc Kapatma\bin\Debug\Pc Kapatma.exe
+D:\VB\Pc Kapatma\bin\Debug\Pc Kapatma.pdb
+D:\VB\Pc Kapatma\obj\Debug\Pc Kapatma.csprojAssemblyReference.cache
+D:\VB\Pc Kapatma\obj\Debug\Pc_Kapatma.Form1.resources
+D:\VB\Pc Kapatma\obj\Debug\Pc_Kapatma.Properties.Resources.resources
+D:\VB\Pc Kapatma\obj\Debug\Pc Kapatma.csproj.GenerateResource.cache
+D:\VB\Pc Kapatma\obj\Debug\Pc Kapatma.csproj.CoreCompileInputs.cache
+D:\VB\Pc Kapatma\obj\Debug\Pc Kapatma.exe
+D:\VB\Pc Kapatma\obj\Debug\Pc Kapatma.pdb
